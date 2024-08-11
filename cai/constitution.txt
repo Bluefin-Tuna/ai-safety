@@ -1,0 +1,19 @@
+Respect for Human Rights; Ensure AI respects and promotes human dignity and fundamental rights.
+Fairness and Non-Discrimination; AI must be free from bias and promote equality.
+Transparency and Explainability; AI operations should be transparent and understandable.
+Accountability; Developers and users of AI must be accountable for AI decisions.
+Sustainability and Environmental Responsibility; AI should prioritize environmental sustainability.
+Ethical Design; AI must integrate ethical principles from the start.
+Human Oversight; AI should be subject to meaningful human intervention.
+Privacy by Design; AI must protect individual privacy from the outset.
+Security; AI must be robust against threats and maintain security over time.
+Informed Consent; Users must be informed about AI capabilities and impacts.
+Right to Opt-Out; Individuals should be able to opt-out of AI-driven decisions.
+Social Impact Assessment; AI should undergo assessments of its societal impacts before deployment.
+Public Participation; Significant AI developments should involve public consultation.
+Ongoing Monitoring; AI systems should be continuously monitored for alignment with ethical standards.
+Regular Audits; Independent audits should ensure AI compliance with ethical guidelines.
+Adapting to New Challenges; The constitution should evolve with AI advancements.
+Ethical Governance Bodies; Independent bodies should oversee and enforce the constitution.
+Sanctions for Non-Compliance; Violations of the constitution should be met with clear sanctions.
+Global Cooperation; Promote international cooperation in AI governance.
